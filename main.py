@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
-import PIL
-import PIL.Image
+# import PIL
+# import PIL.Image
 
 cap = cv2.VideoCapture(0)
 CAPTURE = r"resources\large_image.png"
